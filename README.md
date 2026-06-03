@@ -30,6 +30,7 @@ Receiver specifications:
 > Example: If ID ends with **43**, then ST = 4.3 × 10⁻²² A²/Hz.  
 
 Using the formulas above, calculate the receiver sensitivity.
+<img width="412" height="558" alt="image" src="https://github.com/user-attachments/assets/48c0dc97-db0a-457a-b51b-9205b7f90495" />
 
 ---
 
@@ -58,6 +59,7 @@ Steps:
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+<img width="1047" height="555" alt="image" src="https://github.com/user-attachments/assets/85c2e9a2-d187-4ccd-95b4-9db7ba4e97e1" />
 
 ---
 
